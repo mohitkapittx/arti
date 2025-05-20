@@ -2,6 +2,14 @@ package art;
 
 public class test {
 
+	public void chek() {
+		System.out.println("check");
+	}
+	
+	
+	
+	
+	
 	public static void main(String[] args) {
 	
 		
